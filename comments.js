@@ -1,4 +1,4 @@
-// create web server and listen on port 8080
+// Create web server and listen on port 8080
 // run with node comments.js
 // test with curl -d "user=test&comment=hello" localhost:8080
 var http = require('http');
